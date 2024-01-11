@@ -33,7 +33,7 @@ Please note that testing on other browsers has not been extensively validated, a
     ```
 2. **Navigate** to the project directory:
     ```bash
-   cd wolt-burger-order-tests
+   cd wolt-burger-order-test
     ```
 3. **Install** required dependencies:
    ```bash
